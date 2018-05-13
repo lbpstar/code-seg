@@ -1,0 +1,8 @@
+D:\net project\json\json\bin\Debug\json.exe.config
+D:\net project\json\json\bin\Debug\json.exe
+D:\net project\json\json\bin\Debug\json.pdb
+D:\net project\json\json\bin\Debug\Newtonsoft.Json.dll
+D:\net project\json\json\bin\Debug\Newtonsoft.Json.xml
+D:\net project\json\json\obj\Debug\json.csprojResolveAssemblyReference.cache
+D:\net project\json\json\obj\Debug\json.exe
+D:\net project\json\json\obj\Debug\json.pdb
