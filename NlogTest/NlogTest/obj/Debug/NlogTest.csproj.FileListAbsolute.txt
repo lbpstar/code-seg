@@ -1,0 +1,9 @@
+E:\GitHub\code-seg\NlogTest\NlogTest\bin\Debug\NlogTest.exe.config
+E:\GitHub\code-seg\NlogTest\NlogTest\bin\Debug\NLog.config
+E:\GitHub\code-seg\NlogTest\NlogTest\bin\Debug\NlogTest.exe
+E:\GitHub\code-seg\NlogTest\NlogTest\bin\Debug\NlogTest.pdb
+E:\GitHub\code-seg\NlogTest\NlogTest\bin\Debug\NLog.dll
+E:\GitHub\code-seg\NlogTest\NlogTest\bin\Debug\NLog.xml
+E:\GitHub\code-seg\NlogTest\NlogTest\obj\Debug\NlogTest.csprojResolveAssemblyReference.cache
+E:\GitHub\code-seg\NlogTest\NlogTest\obj\Debug\NlogTest.exe
+E:\GitHub\code-seg\NlogTest\NlogTest\obj\Debug\NlogTest.pdb

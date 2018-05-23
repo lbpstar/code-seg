@@ -1,0 +1,15 @@
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.Consumer\bin\Release\Xstone.Consumer.exe.config
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.Consumer\bin\Release\Xstone.Consumer.exe
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.Consumer\bin\Release\Xstone.Consumer.pdb
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.Consumer\bin\Release\Xstone.MQ.dll
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.Consumer\bin\Release\EasyNetQ.dll
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.Consumer\bin\Release\RabbitMQ.Client.dll
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.Consumer\bin\Release\Newtonsoft.Json.dll
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.Consumer\bin\Release\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.Consumer\bin\Release\Xstone.MQ.pdb
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.Consumer\bin\Release\RabbitMQ.Client.xml
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.Consumer\bin\Release\Newtonsoft.Json.xml
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.Consumer\bin\Release\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.Consumer\obj\Release\Xstone.Consumer.csprojResolveAssemblyReference.cache
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.Consumer\obj\Release\Xstone.Consumer.exe
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.Consumer\obj\Release\Xstone.Consumer.pdb

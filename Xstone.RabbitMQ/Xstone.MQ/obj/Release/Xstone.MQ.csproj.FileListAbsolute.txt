@@ -1,0 +1,12 @@
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.MQ\bin\Release\Xstone.MQ.dll
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.MQ\bin\Release\Xstone.MQ.pdb
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.MQ\bin\Release\EasyNetQ.dll
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.MQ\bin\Release\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.MQ\bin\Release\Newtonsoft.Json.dll
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.MQ\bin\Release\RabbitMQ.Client.dll
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.MQ\bin\Release\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.MQ\bin\Release\Newtonsoft.Json.xml
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.MQ\bin\Release\RabbitMQ.Client.xml
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.MQ\obj\Release\Xstone.MQ.csprojResolveAssemblyReference.cache
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.MQ\obj\Release\Xstone.MQ.dll
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.MQ\obj\Release\Xstone.MQ.pdb

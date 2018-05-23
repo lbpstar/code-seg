@@ -1,0 +1,6 @@
+E:\GitHub\code-seg\SendEmail\SendEmail\bin\Debug\SendEmail.exe.config
+E:\GitHub\code-seg\SendEmail\SendEmail\bin\Debug\SendEmail.exe
+E:\GitHub\code-seg\SendEmail\SendEmail\bin\Debug\SendEmail.pdb
+E:\GitHub\code-seg\SendEmail\SendEmail\obj\Debug\SendEmail.csprojResolveAssemblyReference.cache
+E:\GitHub\code-seg\SendEmail\SendEmail\obj\Debug\SendEmail.exe
+E:\GitHub\code-seg\SendEmail\SendEmail\obj\Debug\SendEmail.pdb

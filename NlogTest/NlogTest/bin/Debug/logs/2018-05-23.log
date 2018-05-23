@@ -1,0 +1,6 @@
+2018-05-23 14:50:16.7840 ERROR This is a Error message AppDomain.ExecuteAssembly => AppDomain._nExecuteAssembly => Program.Main
+2018-05-23 14:50:21.4500 FATAL This is a Fatal error message AppDomain.ExecuteAssembly => AppDomain._nExecuteAssembly => Program.Main
+2018-05-23 15:24:10.3740 ERROR This is a Error message AppDomain.ExecuteAssembly => AppDomain._nExecuteAssembly => Program.Main
+2018-05-23 15:24:15.0220 FATAL This is a Fatal error message AppDomain.ExecuteAssembly => AppDomain._nExecuteAssembly => Program.Main
+2018-05-23 15:25:10.6820 ERROR This is a Error message AppDomain.ExecuteAssembly => AppDomain._nExecuteAssembly => Program.Main
+2018-05-23 15:47:44.7040 ERROR This is a Error message AppDomain.ExecuteAssembly => AppDomain._nExecuteAssembly => Program.Main

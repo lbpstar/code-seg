@@ -1,0 +1,11 @@
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.MQ\bin\Debug\Xstone.MQ.dll
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.MQ\bin\Debug\Xstone.MQ.pdb
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.MQ\bin\Debug\EasyNetQ.dll
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.MQ\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.MQ\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.MQ\bin\Debug\RabbitMQ.Client.dll
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.MQ\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.MQ\bin\Debug\Newtonsoft.Json.xml
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.MQ\bin\Debug\RabbitMQ.Client.xml
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.MQ\obj\Debug\Xstone.MQ.dll
+E:\GitHub\code-seg\Xstone.RabbitMQ\Xstone.MQ\obj\Debug\Xstone.MQ.pdb
