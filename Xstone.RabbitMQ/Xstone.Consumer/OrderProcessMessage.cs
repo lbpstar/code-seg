@@ -10,7 +10,7 @@ namespace Xstone.Consumer
     {
         public void ProcessMsg(MQ.MyMessage msg)
         {
-            Console.WriteLine(msg.MessageBody);
+            Console.WriteLine(msg.MessageID + msg.MessageBody);
         }
     }
 }

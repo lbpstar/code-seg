@@ -12,7 +12,8 @@ namespace Xstone.Consumer
         {
             OrderProcessMessage order = new OrderProcessMessage();
             MQ.MyMessage msg = new MQ.MyMessage();
-            msg.MessageID = "1";
+            //不赋值messageid试试，按道理接受消息应该只要MessageRouter就可以
+            // msg.MessageID = "1";
             msg.MessageRouter = "order.notice.lisi";
 
             MQ.MQHelper.Subscribe(msg, order);

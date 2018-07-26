@@ -1,0 +1,11 @@
+E:\GitHub\code-seg\DemoEf\DatabaseFirst\bin\Debug\DatabaseFirst.exe.config
+E:\GitHub\code-seg\DemoEf\DatabaseFirst\bin\Debug\DatabaseFirst.exe
+E:\GitHub\code-seg\DemoEf\DatabaseFirst\bin\Debug\DatabaseFirst.pdb
+E:\GitHub\code-seg\DemoEf\DatabaseFirst\bin\Debug\EntityFramework.dll
+E:\GitHub\code-seg\DemoEf\DatabaseFirst\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\code-seg\DemoEf\DatabaseFirst\bin\Debug\EntityFramework.xml
+E:\GitHub\code-seg\DemoEf\DatabaseFirst\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitHub\code-seg\DemoEf\DatabaseFirst\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\GitHub\code-seg\DemoEf\DatabaseFirst\obj\Debug\DatabaseFirst.csprojResolveAssemblyReference.cache
+E:\GitHub\code-seg\DemoEf\DatabaseFirst\obj\Debug\DatabaseFirst.exe
+E:\GitHub\code-seg\DemoEf\DatabaseFirst\obj\Debug\DatabaseFirst.pdb

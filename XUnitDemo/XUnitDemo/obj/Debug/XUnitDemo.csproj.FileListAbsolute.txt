@@ -1,0 +1,6 @@
+E:\GitHub\code-seg\XUnitDemo\XUnitDemo\bin\Debug\XUnitDemo.exe.config
+E:\GitHub\code-seg\XUnitDemo\XUnitDemo\bin\Debug\XUnitDemo.exe
+E:\GitHub\code-seg\XUnitDemo\XUnitDemo\bin\Debug\XUnitDemo.pdb
+E:\GitHub\code-seg\XUnitDemo\XUnitDemo\obj\Debug\XUnitDemo.csprojResolveAssemblyReference.cache
+E:\GitHub\code-seg\XUnitDemo\XUnitDemo\obj\Debug\XUnitDemo.exe
+E:\GitHub\code-seg\XUnitDemo\XUnitDemo\obj\Debug\XUnitDemo.pdb

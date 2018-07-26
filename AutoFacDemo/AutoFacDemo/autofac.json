@@ -1,0 +1,15 @@
+﻿{
+  "defaultAssembly": "AutoFacDemo",
+  "components": [{
+    "type": "AutoFacDemo.TodayWriter, AutoFacDemo",
+    "services": [{
+      "type": "AutoFacDemo.IDateWriter"
+    }],
+      "injectProperties": true
+  }, {
+    "type": "AutoFacDemo.ConsoleOutput, AutoFacDemo",
+    "services": [{
+      "type": "AutoFacDemo.IOutput"
+    }]
+  }]
+}

@@ -1,0 +1,6 @@
+E:\GitHub\code-seg\TestCatch\TestCatch\bin\Debug\TestCatch.exe.config
+E:\GitHub\code-seg\TestCatch\TestCatch\bin\Debug\TestCatch.exe
+E:\GitHub\code-seg\TestCatch\TestCatch\bin\Debug\TestCatch.pdb
+E:\GitHub\code-seg\TestCatch\TestCatch\obj\Debug\TestCatch.csprojResolveAssemblyReference.cache
+E:\GitHub\code-seg\TestCatch\TestCatch\obj\Debug\TestCatch.exe
+E:\GitHub\code-seg\TestCatch\TestCatch\obj\Debug\TestCatch.pdb

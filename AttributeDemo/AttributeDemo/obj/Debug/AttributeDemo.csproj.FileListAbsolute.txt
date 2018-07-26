@@ -1,0 +1,2 @@
+E:\GitHub\code-seg\AttributeDemo\AttributeDemo\bin\Debug\AttributeDemo.exe.config
+E:\GitHub\code-seg\AttributeDemo\AttributeDemo\obj\Debug\AttributeDemo.csprojResolveAssemblyReference.cache

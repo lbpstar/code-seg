@@ -1,0 +1,6 @@
+E:\GitHub\code-seg\DemoLinq\DemoLinq\bin\Debug\DemoLinq.exe.config
+E:\GitHub\code-seg\DemoLinq\DemoLinq\bin\Debug\DemoLinq.exe
+E:\GitHub\code-seg\DemoLinq\DemoLinq\bin\Debug\DemoLinq.pdb
+E:\GitHub\code-seg\DemoLinq\DemoLinq\obj\Debug\DemoLinq.csprojResolveAssemblyReference.cache
+E:\GitHub\code-seg\DemoLinq\DemoLinq\obj\Debug\DemoLinq.exe
+E:\GitHub\code-seg\DemoLinq\DemoLinq\obj\Debug\DemoLinq.pdb

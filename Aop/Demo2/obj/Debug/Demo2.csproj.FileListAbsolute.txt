@@ -1,0 +1,9 @@
+E:\GitHub\code-seg\Aop\Demo2\bin\Debug\Demo2.exe.config
+E:\GitHub\code-seg\Aop\Demo2\bin\Debug\Demo2.exe
+E:\GitHub\code-seg\Aop\Demo2\bin\Debug\Demo2.pdb
+E:\GitHub\code-seg\Aop\Demo2\bin\Debug\Castle.Core.dll
+E:\GitHub\code-seg\Aop\Demo2\bin\Debug\Castle.Windsor.dll
+E:\GitHub\code-seg\Aop\Demo2\bin\Debug\Castle.Core.xml
+E:\GitHub\code-seg\Aop\Demo2\bin\Debug\Castle.Windsor.xml
+E:\GitHub\code-seg\Aop\Demo2\obj\Debug\Demo2.exe
+E:\GitHub\code-seg\Aop\Demo2\obj\Debug\Demo2.pdb

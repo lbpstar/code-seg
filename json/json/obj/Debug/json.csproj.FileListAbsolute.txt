@@ -6,3 +6,11 @@ D:\net project\json\json\bin\Debug\Newtonsoft.Json.xml
 D:\net project\json\json\obj\Debug\json.csprojResolveAssemblyReference.cache
 D:\net project\json\json\obj\Debug\json.exe
 D:\net project\json\json\obj\Debug\json.pdb
+E:\GitHub\code-seg\json\json\bin\Debug\json.exe.config
+E:\GitHub\code-seg\json\json\obj\Debug\json.exe
+E:\GitHub\code-seg\json\json\obj\Debug\json.pdb
+E:\GitHub\code-seg\json\json\obj\Debug\json.csprojResolveAssemblyReference.cache
+E:\GitHub\code-seg\json\json\bin\Debug\json.exe
+E:\GitHub\code-seg\json\json\bin\Debug\json.pdb
+E:\GitHub\code-seg\json\json\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\code-seg\json\json\bin\Debug\Newtonsoft.Json.xml

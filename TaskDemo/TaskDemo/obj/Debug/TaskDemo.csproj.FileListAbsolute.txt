@@ -1,0 +1,6 @@
+E:\GitHub\code-seg\TaskDemo\TaskDemo\bin\Debug\TaskDemo.exe.config
+E:\GitHub\code-seg\TaskDemo\TaskDemo\bin\Debug\TaskDemo.exe
+E:\GitHub\code-seg\TaskDemo\TaskDemo\bin\Debug\TaskDemo.pdb
+E:\GitHub\code-seg\TaskDemo\TaskDemo\obj\Debug\TaskDemo.csprojResolveAssemblyReference.cache
+E:\GitHub\code-seg\TaskDemo\TaskDemo\obj\Debug\TaskDemo.exe
+E:\GitHub\code-seg\TaskDemo\TaskDemo\obj\Debug\TaskDemo.pdb

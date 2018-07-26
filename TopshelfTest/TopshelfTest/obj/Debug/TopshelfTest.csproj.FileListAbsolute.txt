@@ -1,0 +1,12 @@
+E:\GitHub\code-seg\TopshelfTest\TopshelfTest\bin\Debug\TopshelfTest.exe.config
+E:\GitHub\code-seg\TopshelfTest\TopshelfTest\bin\Debug\TopshelfTest.exe
+E:\GitHub\code-seg\TopshelfTest\TopshelfTest\bin\Debug\TopshelfTest.pdb
+E:\GitHub\code-seg\TopshelfTest\TopshelfTest\bin\Debug\NLog.dll
+E:\GitHub\code-seg\TopshelfTest\TopshelfTest\bin\Debug\Topshelf.dll
+E:\GitHub\code-seg\TopshelfTest\TopshelfTest\bin\Debug\Topshelf.NLog.dll
+E:\GitHub\code-seg\TopshelfTest\TopshelfTest\bin\Debug\NLog.xml
+E:\GitHub\code-seg\TopshelfTest\TopshelfTest\bin\Debug\Topshelf.xml
+E:\GitHub\code-seg\TopshelfTest\TopshelfTest\bin\Debug\Topshelf.NLog.xml
+E:\GitHub\code-seg\TopshelfTest\TopshelfTest\obj\Debug\TopshelfTest.csprojResolveAssemblyReference.cache
+E:\GitHub\code-seg\TopshelfTest\TopshelfTest\obj\Debug\TopshelfTest.exe
+E:\GitHub\code-seg\TopshelfTest\TopshelfTest\obj\Debug\TopshelfTest.pdb

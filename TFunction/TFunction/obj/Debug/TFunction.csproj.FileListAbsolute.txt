@@ -1,0 +1,6 @@
+E:\GitHub\code-seg\TFunction\TFunction\bin\Debug\TFunction.exe.config
+E:\GitHub\code-seg\TFunction\TFunction\bin\Debug\TFunction.exe
+E:\GitHub\code-seg\TFunction\TFunction\bin\Debug\TFunction.pdb
+E:\GitHub\code-seg\TFunction\TFunction\obj\Debug\TFunction.csprojResolveAssemblyReference.cache
+E:\GitHub\code-seg\TFunction\TFunction\obj\Debug\TFunction.exe
+E:\GitHub\code-seg\TFunction\TFunction\obj\Debug\TFunction.pdb

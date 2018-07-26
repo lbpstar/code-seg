@@ -1,0 +1,17 @@
+E:\GitHub\code-seg\XUnitDemo\XUnitDemoTests\bin\Debug\xunit.abstractions.dll
+E:\GitHub\code-seg\XUnitDemo\XUnitDemoTests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+E:\GitHub\code-seg\XUnitDemo\XUnitDemoTests\bin\Debug\xunit.runner.utility.desktop.dll
+E:\GitHub\code-seg\XUnitDemo\XUnitDemoTests\bin\Debug\xunit.execution.desktop.dll
+E:\GitHub\code-seg\XUnitDemo\XUnitDemoTests\bin\Debug\XUnitDemoTests.dll
+E:\GitHub\code-seg\XUnitDemo\XUnitDemoTests\bin\Debug\XUnitDemoTests.pdb
+E:\GitHub\code-seg\XUnitDemo\XUnitDemoTests\bin\Debug\xunit.assert.dll
+E:\GitHub\code-seg\XUnitDemo\XUnitDemoTests\bin\Debug\xunit.core.dll
+E:\GitHub\code-seg\XUnitDemo\XUnitDemoTests\bin\Debug\XUnitDemo.exe
+E:\GitHub\code-seg\XUnitDemo\XUnitDemoTests\bin\Debug\XUnitDemo.pdb
+E:\GitHub\code-seg\XUnitDemo\XUnitDemoTests\bin\Debug\xunit.assert.pdb
+E:\GitHub\code-seg\XUnitDemo\XUnitDemoTests\bin\Debug\xunit.assert.xml
+E:\GitHub\code-seg\XUnitDemo\XUnitDemoTests\bin\Debug\xunit.core.pdb
+E:\GitHub\code-seg\XUnitDemo\XUnitDemoTests\bin\Debug\xunit.core.xml
+E:\GitHub\code-seg\XUnitDemo\XUnitDemoTests\obj\Debug\XUnitDemoTests.csprojResolveAssemblyReference.cache
+E:\GitHub\code-seg\XUnitDemo\XUnitDemoTests\obj\Debug\XUnitDemoTests.dll
+E:\GitHub\code-seg\XUnitDemo\XUnitDemoTests\obj\Debug\XUnitDemoTests.pdb

@@ -1,0 +1,9 @@
+E:\GitHub\code-seg\UnitTestDemo\UnitTestDemoTests\bin\Debug\UnitTestDemoTests.dll
+E:\GitHub\code-seg\UnitTestDemo\UnitTestDemoTests\bin\Debug\UnitTestDemoTests.pdb
+E:\GitHub\code-seg\UnitTestDemo\UnitTestDemoTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\GitHub\code-seg\UnitTestDemo\UnitTestDemoTests\bin\Debug\UnitTestDemo.exe
+E:\GitHub\code-seg\UnitTestDemo\UnitTestDemoTests\bin\Debug\UnitTestDemo.pdb
+E:\GitHub\code-seg\UnitTestDemo\UnitTestDemoTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\GitHub\code-seg\UnitTestDemo\UnitTestDemoTests\obj\Debug\UnitTestDemoTests.csprojResolveAssemblyReference.cache
+E:\GitHub\code-seg\UnitTestDemo\UnitTestDemoTests\obj\Debug\UnitTestDemoTests.dll
+E:\GitHub\code-seg\UnitTestDemo\UnitTestDemoTests\obj\Debug\UnitTestDemoTests.pdb

@@ -1,0 +1,10 @@
+E:\GitHub\code-seg\DemoEf\DemoEf\bin\Debug\DemoEf.exe.config
+E:\GitHub\code-seg\DemoEf\DemoEf\bin\Debug\DemoEf.exe
+E:\GitHub\code-seg\DemoEf\DemoEf\bin\Debug\DemoEf.pdb
+E:\GitHub\code-seg\DemoEf\DemoEf\bin\Debug\EntityFramework.dll
+E:\GitHub\code-seg\DemoEf\DemoEf\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\code-seg\DemoEf\DemoEf\bin\Debug\EntityFramework.xml
+E:\GitHub\code-seg\DemoEf\DemoEf\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitHub\code-seg\DemoEf\DemoEf\obj\Debug\DemoEf.csprojResolveAssemblyReference.cache
+E:\GitHub\code-seg\DemoEf\DemoEf\obj\Debug\DemoEf.exe
+E:\GitHub\code-seg\DemoEf\DemoEf\obj\Debug\DemoEf.pdb

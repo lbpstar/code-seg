@@ -1,0 +1,10 @@
+E:\GitHub\code-seg\Aop\Aop\bin\Debug\Aop.exe.config
+E:\GitHub\code-seg\Aop\Aop\bin\Debug\Aop.exe
+E:\GitHub\code-seg\Aop\Aop\bin\Debug\Aop.pdb
+E:\GitHub\code-seg\Aop\Aop\bin\Debug\Castle.Core.dll
+E:\GitHub\code-seg\Aop\Aop\bin\Debug\Castle.Windsor.dll
+E:\GitHub\code-seg\Aop\Aop\bin\Debug\Castle.Core.xml
+E:\GitHub\code-seg\Aop\Aop\bin\Debug\Castle.Windsor.xml
+E:\GitHub\code-seg\Aop\Aop\obj\Debug\Aop.csprojResolveAssemblyReference.cache
+E:\GitHub\code-seg\Aop\Aop\obj\Debug\Aop.exe
+E:\GitHub\code-seg\Aop\Aop\obj\Debug\Aop.pdb

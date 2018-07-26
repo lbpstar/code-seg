@@ -1,0 +1,6 @@
+E:\GitHub\code-seg\DelegateTest\DelegateTest\bin\Debug\DelegateTest.exe.config
+E:\GitHub\code-seg\DelegateTest\DelegateTest\bin\Debug\DelegateTest.exe
+E:\GitHub\code-seg\DelegateTest\DelegateTest\bin\Debug\DelegateTest.pdb
+E:\GitHub\code-seg\DelegateTest\DelegateTest\obj\Debug\DelegateTest.csprojResolveAssemblyReference.cache
+E:\GitHub\code-seg\DelegateTest\DelegateTest\obj\Debug\DelegateTest.exe
+E:\GitHub\code-seg\DelegateTest\DelegateTest\obj\Debug\DelegateTest.pdb

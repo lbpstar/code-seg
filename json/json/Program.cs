@@ -46,10 +46,23 @@ namespace json
 
             Console.WriteLine(jsonData2);  //显示结果
             Console.ReadLine();
+
+            //反序列化实体对象集合
+            List<Student> twoList = JsonConvert.DeserializeObject<List<Student>>(jsonData2);
+            foreach (Student stu in twoList)
+            {
+                Console.WriteLine(
+                string.Format("学生信息  ID:{0},姓名:{1},年龄:{2},性别:{3}",
+                stu.ID, stu.Name, stu.Age, stu.Sex));//显示结果   
+            }
+            Console.ReadLine();
+
+            ////datatable转json
             Console.WriteLine(GetAllCategory());
             Console.ReadLine();
+        }
             //datatable转json
-            string GetAllCategory()
+            private static string GetAllCategory()
 
             {
 
@@ -63,7 +76,7 @@ namespace json
             }
 
         }
-    }
+
     public class Student
     {
         public int ID { get; set; }
