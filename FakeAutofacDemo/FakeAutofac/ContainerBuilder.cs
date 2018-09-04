@@ -3,6 +3,13 @@ using System.Collections.Generic;
 
 namespace FakeAutofac
 {
+    /*这个类先完成注册功能，然后提供build方法返回IContainer实例。
+    build方法通过Container的构造函数将注册的类型集合传递给Container中集合变量
+    Container构造函数同时对集合value，也就是resolver对象中委托进行赋值
+    然后Container提供resove方法，生成所需的实例对象
+    五个地方使用了反射resolver中RealType.GetConstructors()、constructors[0].Invoke(@params.ToArray())、parameterInfo.ParameterType、
+    GetParameters()和当前类的_currentKey.GetInterfaces(),其实还有type
+    这篇文章也有简单的di框架实现*/
     public class ContainerBuilder
     {
         //用来保存注册的类型

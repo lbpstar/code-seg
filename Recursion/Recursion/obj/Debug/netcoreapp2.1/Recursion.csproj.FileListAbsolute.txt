@@ -1,0 +1,11 @@
+E:\GitHub\code-seg\Recursion\Recursion\bin\Debug\netcoreapp2.1\Recursion.deps.json
+E:\GitHub\code-seg\Recursion\Recursion\bin\Debug\netcoreapp2.1\Recursion.runtimeconfig.json
+E:\GitHub\code-seg\Recursion\Recursion\bin\Debug\netcoreapp2.1\Recursion.runtimeconfig.dev.json
+E:\GitHub\code-seg\Recursion\Recursion\bin\Debug\netcoreapp2.1\Recursion.dll
+E:\GitHub\code-seg\Recursion\Recursion\bin\Debug\netcoreapp2.1\Recursion.pdb
+E:\GitHub\code-seg\Recursion\Recursion\obj\Debug\netcoreapp2.1\Recursion.csprojAssemblyReference.cache
+E:\GitHub\code-seg\Recursion\Recursion\obj\Debug\netcoreapp2.1\Recursion.csproj.CoreCompileInputs.cache
+E:\GitHub\code-seg\Recursion\Recursion\obj\Debug\netcoreapp2.1\Recursion.AssemblyInfoInputs.cache
+E:\GitHub\code-seg\Recursion\Recursion\obj\Debug\netcoreapp2.1\Recursion.AssemblyInfo.cs
+E:\GitHub\code-seg\Recursion\Recursion\obj\Debug\netcoreapp2.1\Recursion.dll
+E:\GitHub\code-seg\Recursion\Recursion\obj\Debug\netcoreapp2.1\Recursion.pdb

@@ -1,0 +1,11 @@
+E:\GitHub\code-seg\doubledecimal\doubledecimal\bin\Debug\netcoreapp2.1\doubledecimal.deps.json
+E:\GitHub\code-seg\doubledecimal\doubledecimal\bin\Debug\netcoreapp2.1\doubledecimal.runtimeconfig.json
+E:\GitHub\code-seg\doubledecimal\doubledecimal\bin\Debug\netcoreapp2.1\doubledecimal.runtimeconfig.dev.json
+E:\GitHub\code-seg\doubledecimal\doubledecimal\bin\Debug\netcoreapp2.1\doubledecimal.dll
+E:\GitHub\code-seg\doubledecimal\doubledecimal\bin\Debug\netcoreapp2.1\doubledecimal.pdb
+E:\GitHub\code-seg\doubledecimal\doubledecimal\obj\Debug\netcoreapp2.1\doubledecimal.csprojAssemblyReference.cache
+E:\GitHub\code-seg\doubledecimal\doubledecimal\obj\Debug\netcoreapp2.1\doubledecimal.csproj.CoreCompileInputs.cache
+E:\GitHub\code-seg\doubledecimal\doubledecimal\obj\Debug\netcoreapp2.1\doubledecimal.AssemblyInfoInputs.cache
+E:\GitHub\code-seg\doubledecimal\doubledecimal\obj\Debug\netcoreapp2.1\doubledecimal.AssemblyInfo.cs
+E:\GitHub\code-seg\doubledecimal\doubledecimal\obj\Debug\netcoreapp2.1\doubledecimal.dll
+E:\GitHub\code-seg\doubledecimal\doubledecimal\obj\Debug\netcoreapp2.1\doubledecimal.pdb

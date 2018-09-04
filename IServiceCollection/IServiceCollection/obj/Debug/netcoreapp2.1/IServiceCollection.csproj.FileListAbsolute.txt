@@ -1,0 +1,11 @@
+E:\GitHub\code-seg\IServiceCollection\IServiceCollection\bin\Debug\netcoreapp2.1\IServiceCollection.deps.json
+E:\GitHub\code-seg\IServiceCollection\IServiceCollection\bin\Debug\netcoreapp2.1\IServiceCollection.runtimeconfig.json
+E:\GitHub\code-seg\IServiceCollection\IServiceCollection\bin\Debug\netcoreapp2.1\IServiceCollection.runtimeconfig.dev.json
+E:\GitHub\code-seg\IServiceCollection\IServiceCollection\bin\Debug\netcoreapp2.1\IServiceCollection.dll
+E:\GitHub\code-seg\IServiceCollection\IServiceCollection\obj\Debug\netcoreapp2.1\IServiceCollection.csprojAssemblyReference.cache
+E:\GitHub\code-seg\IServiceCollection\IServiceCollection\obj\Debug\netcoreapp2.1\IServiceCollection.csproj.CoreCompileInputs.cache
+E:\GitHub\code-seg\IServiceCollection\IServiceCollection\obj\Debug\netcoreapp2.1\IServiceCollection.AssemblyInfoInputs.cache
+E:\GitHub\code-seg\IServiceCollection\IServiceCollection\obj\Debug\netcoreapp2.1\IServiceCollection.AssemblyInfo.cs
+E:\GitHub\code-seg\IServiceCollection\IServiceCollection\bin\Debug\netcoreapp2.1\IServiceCollection.pdb
+E:\GitHub\code-seg\IServiceCollection\IServiceCollection\obj\Debug\netcoreapp2.1\IServiceCollection.dll
+E:\GitHub\code-seg\IServiceCollection\IServiceCollection\obj\Debug\netcoreapp2.1\IServiceCollection.pdb

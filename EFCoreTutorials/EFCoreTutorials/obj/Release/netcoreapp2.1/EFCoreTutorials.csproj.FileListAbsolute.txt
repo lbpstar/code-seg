@@ -1,0 +1,11 @@
+E:\GitHub\code-seg\EFCoreTutorials\EFCoreTutorials\bin\Release\netcoreapp2.1\EFCoreTutorials.deps.json
+E:\GitHub\code-seg\EFCoreTutorials\EFCoreTutorials\bin\Release\netcoreapp2.1\EFCoreTutorials.runtimeconfig.json
+E:\GitHub\code-seg\EFCoreTutorials\EFCoreTutorials\bin\Release\netcoreapp2.1\EFCoreTutorials.runtimeconfig.dev.json
+E:\GitHub\code-seg\EFCoreTutorials\EFCoreTutorials\bin\Release\netcoreapp2.1\EFCoreTutorials.dll
+E:\GitHub\code-seg\EFCoreTutorials\EFCoreTutorials\bin\Release\netcoreapp2.1\EFCoreTutorials.pdb
+E:\GitHub\code-seg\EFCoreTutorials\EFCoreTutorials\obj\Release\netcoreapp2.1\EFCoreTutorials.csprojAssemblyReference.cache
+E:\GitHub\code-seg\EFCoreTutorials\EFCoreTutorials\obj\Release\netcoreapp2.1\EFCoreTutorials.csproj.CoreCompileInputs.cache
+E:\GitHub\code-seg\EFCoreTutorials\EFCoreTutorials\obj\Release\netcoreapp2.1\EFCoreTutorials.AssemblyInfoInputs.cache
+E:\GitHub\code-seg\EFCoreTutorials\EFCoreTutorials\obj\Release\netcoreapp2.1\EFCoreTutorials.AssemblyInfo.cs
+E:\GitHub\code-seg\EFCoreTutorials\EFCoreTutorials\obj\Release\netcoreapp2.1\EFCoreTutorials.dll
+E:\GitHub\code-seg\EFCoreTutorials\EFCoreTutorials\obj\Release\netcoreapp2.1\EFCoreTutorials.pdb
