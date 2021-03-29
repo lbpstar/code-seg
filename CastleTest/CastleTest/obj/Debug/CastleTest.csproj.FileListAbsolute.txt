@@ -1,0 +1,8 @@
+E:\GitHub\code-seg\CastleTest\CastleTest\bin\Debug\CastleTest.exe.config
+E:\GitHub\code-seg\CastleTest\CastleTest\bin\Debug\CastleTest.exe
+E:\GitHub\code-seg\CastleTest\CastleTest\bin\Debug\CastleTest.pdb
+E:\GitHub\code-seg\CastleTest\CastleTest\bin\Debug\Castle.Core.dll
+E:\GitHub\code-seg\CastleTest\CastleTest\bin\Debug\Castle.Core.xml
+E:\GitHub\code-seg\CastleTest\CastleTest\obj\Debug\CastleTest.csprojResolveAssemblyReference.cache
+E:\GitHub\code-seg\CastleTest\CastleTest\obj\Debug\CastleTest.exe
+E:\GitHub\code-seg\CastleTest\CastleTest\obj\Debug\CastleTest.pdb

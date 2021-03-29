@@ -1,0 +1,10 @@
+E:\GitHub\code-seg\FileExists\FileExists\bin\Debug\FileExists.exe.config
+E:\GitHub\code-seg\FileExists\FileExists\bin\Debug\FileExists.exe
+E:\GitHub\code-seg\FileExists\FileExists\bin\Debug\FileExists.pdb
+E:\GitHub\code-seg\FileExists\FileExists\obj\Debug\FileExists.csprojAssemblyReference.cache
+E:\GitHub\code-seg\FileExists\FileExists\obj\Debug\FileExists.Form1.resources
+E:\GitHub\code-seg\FileExists\FileExists\obj\Debug\FileExists.Properties.Resources.resources
+E:\GitHub\code-seg\FileExists\FileExists\obj\Debug\FileExists.csproj.GenerateResource.cache
+E:\GitHub\code-seg\FileExists\FileExists\obj\Debug\FileExists.csproj.CoreCompileInputs.cache
+E:\GitHub\code-seg\FileExists\FileExists\obj\Debug\FileExists.exe
+E:\GitHub\code-seg\FileExists\FileExists\obj\Debug\FileExists.pdb

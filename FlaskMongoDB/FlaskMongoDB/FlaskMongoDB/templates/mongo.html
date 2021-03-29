@@ -1,0 +1,42 @@
+﻿{% extends "layout.html" %}
+
+{% block content %}
+
+<h2>{{ title }}.</h2>
+<h3>{{ message }}</h3>
+
+<div class="row">
+    <div class="col-md-12">
+        <h2>新增</h2>
+        <p>
+            新增文档.
+        </p>
+        <form method="post">
+            {{ mongo_form.csrf_token }}
+            {{mongo_form.name.label}}{{mongo_form.name}}
+            {% for error in mongo_form.name.errors %}
+            <p class="alert alert-danger">{{ error }}</p>
+            {% endfor %}
+            {{mongo_form.submit}}
+        </form>
+        <!--<p><a class="btn btn-default" href="{{ url_for('add_mongo') }}">新增</a></p>-->
+    </div>
+    <div class="col-md-12">
+        <h2>修改</h2>
+        <p>修改文档.</p>
+        <p><a class="btn btn-default" href="https://pypi.python.org/pypi">修改</a></p>
+    </div>
+    <div class="col-md-12">
+        <h2>删除</h2>
+        <p>删除文档.</p>
+        <p><a class="btn btn-default" href="http://azure.microsoft.com">删除</a></p>
+    </div>
+    <div class="col-md-12">
+        <h2>查询</h2>
+        <p>查询文档.</p>
+        <p><a class="btn btn-default" href="{{ url_for('query') }}">查询</a></p>
+        <p>{{ name }}</p>
+    </div>
+</div>
+
+{% endblock %}

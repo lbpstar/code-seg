@@ -1,0 +1,6 @@
+E:\GitHub\code-seg\getRestful\getRestful\bin\Debug\getRestful.exe.config
+E:\GitHub\code-seg\getRestful\getRestful\bin\Debug\getRestful.exe
+E:\GitHub\code-seg\getRestful\getRestful\bin\Debug\getRestful.pdb
+E:\GitHub\code-seg\getRestful\getRestful\obj\Debug\getRestful.csprojResolveAssemblyReference.cache
+E:\GitHub\code-seg\getRestful\getRestful\obj\Debug\getRestful.exe
+E:\GitHub\code-seg\getRestful\getRestful\obj\Debug\getRestful.pdb
